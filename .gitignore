@@ -1,0 +1,6 @@
+client/
+bot_with_doc/venv/
+bot_with_doc/.env
+bot_with_doc/bot.db
+server/venv/
+server/server.db
